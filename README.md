@@ -1,6 +1,8 @@
 # Hi, I'm Keant
 An avid engineer, cat dad, and gamer
 
+My github repos would mainly be for portfolio & personal use
+
 ### Tech Stack
 [![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
 [![Azure DevOps](https://custom-icon-badges.demolab.com/badge/Azure%20DevOps-0078D7?logo=azure-devops-white&logoColor=fff)](#)
