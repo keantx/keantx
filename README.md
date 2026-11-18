@@ -1,7 +1,5 @@
 # Hi, I'm Keant
-An avid engineer, cat dad, and gamer
-
-My github repos would mainly be for portfolio & personal use
+Cloud Engineer / DevOps who's interested in open source but still figuring out how to get involved
 
 ### Tech Stack
 [![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
